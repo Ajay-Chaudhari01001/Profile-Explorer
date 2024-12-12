@@ -59,11 +59,11 @@ Profile Explorer is a React application that allows users to view profiles of in
 
 ### Profile List
 A clean and responsive grid displaying all profiles with photos and descriptions.
-<img width="944" alt="Screenshot 2024-12-12 225625" src="https://github.com/user-attachments/assets/2166079b-f9a7-41c9-ae75-9c3eca4795f7" />
+ <img width="944" alt="Screenshot 2024-12-12 225625" src="https://github.com/user-attachments/assets/61a06db9-7f33-42dd-84ad-547bd47cd287" />
 
 ### Map View
 Interactive map with a marker showing the selected profile’s location.
-<img width="788" alt="Screenshot 2024-12-12 225822" src="https://github.com/user-attachments/assets/c7fab7c5-9b90-4b98-bcc6-4a91504017b7" />
+<img width="788" alt="Screenshot 2024-12-12 225822" src="https://github.com/user-attachments/assets/850f7e2f-3ff0-4d75-86ca-7a84daca4e58" />
 
 ## Future Enhancements
 
