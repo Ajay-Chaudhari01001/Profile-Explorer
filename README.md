@@ -52,7 +52,7 @@ Profile Explorer is a React application that allows users to view profiles of in
 ## Usage
 
 1. The application displays a list of profiles in a card layout.
-2. Click on the **Summary** button in a profile card to view the location on the map.
+2. Click on the **View Map** button in a profile card to view the location on the map.
 3. The map displays a marker and popup with the address of the selected profile.
 
 ## Screenshots
